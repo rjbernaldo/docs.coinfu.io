@@ -1,0 +1,72 @@
+{
+  "assetsByChunkName": {
+    "component---node-modules-brainhubeu-gatsby-docs-kit-src-templates-default-js": [
+      "component---node-modules-brainhubeu-gatsby-docs-kit-src-templates-default-js-4d968bd9ce48d0e34dd5.js",
+      "component---node-modules-brainhubeu-gatsby-docs-kit-src-templates-default-js-4d968bd9ce48d0e34dd5.js.map"
+    ],
+    "path---guides-markdown-features": [
+      "path---guides-markdown-features-c97440bca73f7c01f8cd.js",
+      "path---guides-markdown-features-c97440bca73f7c01f8cd.js.map"
+    ],
+    "path---": [
+      "path----4b1bff8876527a1b9d16.js",
+      "path----4b1bff8876527a1b9d16.js.map"
+    ],
+    "path---guides-custom-layout": [
+      "path---guides-custom-layout-d42b65ea9490b1b448b2.js",
+      "path---guides-custom-layout-d42b65ea9490b1b448b2.js.map"
+    ],
+    "path---getting-started-platform-overview": [
+      "path---getting-started-platform-overview-25d6b1fb785a9da33f5d.js",
+      "path---getting-started-platform-overview-25d6b1fb785a9da33f5d.js.map"
+    ],
+    "path---guides-custom-markdown-pages": [
+      "path---guides-custom-markdown-pages-c493452d61e8e67669bf.js",
+      "path---guides-custom-markdown-pages-c493452d61e8e67669bf.js.map"
+    ],
+    "path---landing": [
+      "path---landing-a0e39f21c11f6a62c5ab.js",
+      "path---landing-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-landing-js": [
+      "component---src-pages-landing-js-5b762e93d6d99c1740d4.js",
+      "component---src-pages-landing-js-5b762e93d6d99c1740d4.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-54dfcbc96f9f630b06be.js",
+      "build-js-styles.css",
+      "commons-54dfcbc96f9f630b06be.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---guides-custom-gatsby-page": [
+      "path---guides-custom-gatsby-page-b50a05ecbac1b69b1c8c.js",
+      "path---guides-custom-gatsby-page-b50a05ecbac1b69b1c8c.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---node-modules-brainhubeu-gatsby-docs-kit-src-layouts-default-js": [
+      "component---node-modules-brainhubeu-gatsby-docs-kit-src-layouts-default-js-72849c900e055d9af99a.js",
+      "component---node-modules-brainhubeu-gatsby-docs-kit-src-layouts-default-js-72849c900e055d9af99a.js.map"
+    ],
+    "path---guides-custom-markdown-template": [
+      "path---guides-custom-markdown-template-f314980f0564ea513731.js",
+      "path---guides-custom-markdown-template-f314980f0564ea513731.js.map"
+    ],
+    "app": [
+      "app-688367eea5b927d53d00.js",
+      "build-js-styles.css",
+      "app-688367eea5b927d53d00.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
