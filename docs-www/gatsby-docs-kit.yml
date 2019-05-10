@@ -1,0 +1,22 @@
+- title: DOCS
+  dir: ../docs
+  url: /
+  sidemenu:
+    - title: Getting Started
+      dir: getting-started
+      items:
+        - title: Platform Overview
+          file: platform-overview.md
+    - title: Guides
+      dir: guides
+      items:
+        - title: Markdown features
+          file: markdown-features.md
+        - title: Custom markdown pages
+          file: custom-markdown-pages.md
+        - title: Custom Gatsby page
+          file: custom-gatsby-page.md
+        - title: Custom Markdown template
+          file: custom-markdown-template.md
+        - title: Custom layout
+          file: custom-layout.md
